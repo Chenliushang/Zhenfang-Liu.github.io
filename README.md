@@ -3,7 +3,6 @@
 ## 💼 Contact Information
 - **Email:** your.email@example.com
 - **GitHub:** [your-github-username](https://github.com/your-github-username)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)
 - **Portfolio/Website:** [your-website.com](https://your-website.com)
 
 ---
